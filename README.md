@@ -1,2 +1,2 @@
 # study
-my study!
+个人学习使用github的一个地方，临时存放些好玩的东西吧！
