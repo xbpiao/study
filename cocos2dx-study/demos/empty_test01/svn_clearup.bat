@@ -6,11 +6,14 @@ rmdir /q /s proj.android\bin
 rmdir /q /s proj.android\obj
 rmdir /q /s proj.android\assets
 rmdir /q /s proj.android-studio\build
+rmdir /q /s proj.android-studio\app\build
+rmdir /q /s proj.android-studio\app\.externalNativeBuild
 rmdir /q /s bin
 
 rem 清除proj.win32
 rmdir /q /s proj.win32\Debug.win32
 rmdir /q /s proj.win32\.vs
+
 del /q /s *.bak
 del /q /s *.so
 del /q /s *.a
@@ -18,3 +21,4 @@ del /q /s *.sdf
 del /q /s *.VC.db
 del /q /s *.VC.opendb
 del /q /s /ah proj.win32\*.suo
+del /q /s /ah .DS_store
