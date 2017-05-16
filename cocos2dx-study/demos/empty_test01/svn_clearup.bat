@@ -14,6 +14,9 @@ rem 清除proj.win32
 rmdir /q /s proj.win32\Debug.win32
 rmdir /q /s proj.win32\.vs
 
+rem 清除proj.ios_mac
+rmdir /q /s proj.ios_mac\build
+
 del /q /s *.bak
 del /q /s *.so
 del /q /s *.a

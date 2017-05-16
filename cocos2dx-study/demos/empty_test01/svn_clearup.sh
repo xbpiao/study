@@ -13,6 +13,9 @@ rm -f -r bin
 rm -f -r proj.win32/Debug.win32
 rm -f -r proj.win32/.vs
 
+# 清除proj.ios_mac
+rm -f -r proj.ios_mac/build
+
 find . -name "*.bak" -exec rm -f {} \;
 find . -name "*.o" -exec rm -f {} \;
 find . -name "*.a" -exec rm -f {} \;
