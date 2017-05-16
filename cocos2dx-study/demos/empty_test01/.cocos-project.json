@@ -1,8 +1,8 @@
 {
     "win32_cfg": {
-        "project_path": "../../build",
-        "sln_file": "cocos2d-win32.sln",
-        "project_name": "cpp-empty-test",
+        "project_path": "./proj.win32",
+        "sln_file": "empty_test01.sln",
+        "project_name": "empty_test01",
         "build_cfg_path": "proj.win32",
         "exe_out_dir": "cpp-empty-test"
     }, 
@@ -14,18 +14,18 @@
         "build_result_dir": "cpp-empty-test"
     }, 
     "ios_cfg": {
-        "project_path": "../../build",
-        "project_file": "cocos2d_tests.xcodeproj",
-        "target_name": "cpp-empty-test iOS"
+        "project_path": "./proj.ios_mac",
+        "project_file": "empty_test01.xcodeproj",
+        "target_name": "empty_test01-mobile"
     }, 
     "project_type": "cpp", 
     "mac_cfg": {
-        "project_path": "../../build",
-        "project_file": "cocos2d_tests.xcodeproj",
-        "target_name": "cpp-empty-test Mac"
+        "project_path": "./proj.ios_mac",
+        "project_file": "empty_test01.xcodeproj",
+        "target_name": "empty_test01-desktop"
     },
     "android_cfg": {
-        "project_path": "proj.android",
+        "project_path": "./proj.android",
         "studio_proj_path" : "proj.android-studio"
     },
     "wp8_1_cfg" : {
