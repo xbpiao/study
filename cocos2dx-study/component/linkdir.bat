@@ -1,10 +1,10 @@
 @echo off
 setlocal enabledelayedexpansion
-rem 保存当前路径
+rem Save the current path
 set currentPath=%~dp0
-rem 保存当前驱动器盘符
+rem Save the current drive letter
 set currentDriver=%~d0
-rem 直接使用批处理文件的相对路径
+rem Directly use the relative path of the batch file
 %currentDriver%
 cd "%currentPath%"
 
