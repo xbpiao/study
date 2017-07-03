@@ -8,6 +8,7 @@ rmdir /q /s proj.android\assets
 rmdir /q /s proj.android-studio\build
 rmdir /q /s proj.android-studio\app\build
 rmdir /q /s proj.android-studio\app\.externalNativeBuild
+rmdir /q /s proj.android-studio\.idea
 rmdir /q /s bin
 
 rem 清除proj.win32

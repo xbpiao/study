@@ -7,6 +7,7 @@ rm -f -r proj.android/gen
 rm -f -r proj.android-studio/build
 rm -f -r proj.android-studio/app/build
 rm -f -r proj.android-studio/app/.externalNativeBuild
+rm -f -r proj.android-studio/.idea
 rm -f -r bin
 
 # 清除proj.win32
