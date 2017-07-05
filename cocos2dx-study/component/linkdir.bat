@@ -12,7 +12,7 @@ echo %currentPath%
 
 rmdir /S /Q "%currentPath%cocos2d-x-3.15"
 
-mklink /J "%currentPath%cocos2d-x-3.15" "%currentPath%..\..\..\xbpiao-cocos2d-x-3.15"
+mklink /J "%currentPath%cocos2d-x-3.15" "%currentPath%..\..\..\xbpiao-cocos2d-x"
 
 
 @echo on

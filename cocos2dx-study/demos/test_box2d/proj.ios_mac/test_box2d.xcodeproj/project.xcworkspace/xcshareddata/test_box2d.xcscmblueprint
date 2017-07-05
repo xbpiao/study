@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "29A9CDAD3C74484C9D0A6D17FAB2790BA133BFC3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "29A9CDAD3C74484C9D0A6D17FAB2790BA133BFC3" : 9223372036854775807,
+    "852ED3691A47A99B0D19C820A500AE9772B2A44E" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3FE65FF0-0BD8-4041-AFD1-BD57C3BF4233",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "29A9CDAD3C74484C9D0A6D17FAB2790BA133BFC3" : "study\/",
+    "852ED3691A47A99B0D19C820A500AE9772B2A44E" : "xbpiao-cocos2d-x\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "test_box2d",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "cocos2dx-study\/demos\/test_box2d\/proj.ios_mac\/test_box2d.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/xbpiao\/study.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "29A9CDAD3C74484C9D0A6D17FAB2790BA133BFC3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/xbpiao\/cocos2d-x.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "852ED3691A47A99B0D19C820A500AE9772B2A44E"
+    }
+  ]
+}
